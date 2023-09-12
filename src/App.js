@@ -7,7 +7,6 @@ import Details from './components/Details';
 import About from './components/About';
 import React, {useState} from 'react';
 import Alert from './components/Alert';
-import { Link } from 'react-router-dom';
 
 import {
   BrowserRouter as Router,
